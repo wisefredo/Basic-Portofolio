@@ -28,7 +28,7 @@ body {
 	width:50px;
 	width: 50px;
 	margin-top: 12px;
-	
+
 }
 
 .headerLeft {
@@ -65,9 +65,24 @@ a {
 .aboutMe {
 	color: #4aaaa5;
 	font-size: 36px;
-
+}
+.contact {
+	color: #4aaaa5;
+	font-size: 36px;
+}
+.inputs {
+	width: 90%;
+	margin: 5px;
 
 }
+input, label {     display:block; }
+
+.message {
+	height: 120px;
+}
+
+
+
 .sideContent {
 	width: 270px;
 	background-color: #ffffff;
