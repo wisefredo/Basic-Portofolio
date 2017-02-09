@@ -1,0 +1,109 @@
+.contentWrapper	{
+	width: 960px;
+	margin: 0 auto;
+}
+
+body {
+	background-color: #ededed;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+
+
+}
+
+.myImage	{
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin: 0 7px 7px 0;
+}
+
+.paragraph {
+	color: #777777;
+	line-height: 200%;
+	/*padding: 15px;*/
+
+}
+
+.icons	{
+	width:50px;
+	width: 50px;
+	margin-top: 12px;
+	
+}
+
+.headerLeft {
+	float: left;
+	background-color: #4aaaa5;
+	color: white;
+	font-size: 52px;
+	padding: 10px;
+}
+.headerRight {
+	float: right;
+	padding: 10px;
+	padding-top: 20px;
+
+}
+a {
+	text-decoration: none;
+	color: gray;
+
+
+}
+.mainContent {
+	width: 650px;
+	background-color: #ffffff;
+	padding: 5px;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	margin-top: 30px;
+	float: left;
+	margin-bottom: 20px;
+
+
+}
+.aboutMe {
+	color: #4aaaa5;
+	font-size: 36px;
+
+
+}
+.sideContent {
+	width: 270px;
+	background-color: #ffffff;
+	text-align: center;
+	/*clockwise padding top right bottom left*/
+	padding: 10px 1px 10px 1px; 
+	/*padding-bottom: 25px;
+	padding-top: 25px;*/
+	margin-top: 30px;
+	float: right; 
+	color: #4aaaa5;
+
+}
+
+
+header {
+	width: 100%;
+	height: 72px;
+	background-color: #ffffff;
+
+}
+
+footer {
+	margin-top: 30px;
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	background-color: #666666;
+	color: white;
+	padding: 30px;
+	border-top: 12px solid #4aaaa5;
+	clear: both;
+
+
+	
+
+}
+
+
